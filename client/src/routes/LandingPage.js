@@ -43,7 +43,7 @@ const LandingPage = () => {
                 </div>
                 
                 <div className='footer text-left px-10 py-2 text-gray-500'>
-                    © Yashasvi Yadav
+                    © Dhruv Sen
                 </div>
 
 

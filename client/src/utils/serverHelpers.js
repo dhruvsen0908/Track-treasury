@@ -2,8 +2,8 @@
 // these functions help frontend to connect with backend 
 import { BACKEND_BASE_URL } from "../config";
 
-// const backendBaseUrl = 'http://localhost:8080';
-const backendBaseUrl = BACKEND_BASE_URL;
+const backendBaseUrl = 'http://localhost:8080';
+// const backendBaseUrl = BACKEND_BASE_URL;
 
 export const makeUnauthenticatedPOSTRequest = async (route, body) => { // route will be API route  
 

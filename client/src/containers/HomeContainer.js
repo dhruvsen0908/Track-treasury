@@ -76,7 +76,7 @@ export default function HomeContainer({children, currActiveScreen}){
                     </div>
 
                     <div className=' h-[15%] text-gray-400 text-sm font-normal text-left pl-5 flex items-end'>
-                        © 2024 Yashasvi Yadav 
+                        © 2024 Dhruv Sen
                     </div>
                 </div>
             </div>
