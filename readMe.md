@@ -6,7 +6,6 @@
 live Screenshots :-
 
 ![screenshot1](https://i.ibb.co/LYzNTVw/asdasdfgfgfg.png)
-![screenshot2](https://i.ibb.co/PFZYm8b/asdasdfgfgfg.png)
 ![screenshot3](https://i.ibb.co/M95bLv3/asdasdfgfgfg.png)
 ![screenshot4](https://i.ibb.co/b6KQHgb/asdasdfgfgfg.png)
 ![screenshot5](https://i.ibb.co/LtCVNrQ/asdasdfgfgfg.png)
