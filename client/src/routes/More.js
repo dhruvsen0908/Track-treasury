@@ -15,8 +15,8 @@ export default function More({}){
                         </div>
                         <SingleMoreCard
                             title={'Github'}
-                            linkTitle={'yashasviyadav1/track-treasury'}
-                            link={'https://github.com/yashasviyadav1/track-treasury'}
+                            linkTitle={'dhruvsen0908/track-treasury'}
+                            link={'https://github.com/dhruvsen0908/track-treasury'}
                             iconifySrc="uiw:github"
                             underline
                         />
@@ -28,15 +28,15 @@ export default function More({}){
                         <div className='w-full space-y-3'>
                             <SingleMoreCard
                                 title={'Mail Us'}
-                                linkTitle={'yashasviyadav2407@gmail.com'}
-                                link={'yashasviyadav2407@gmail.com'}
+                                linkTitle={'dhruvsen0908@gmail.com'}
+                                link={'dhruvsen0908@gmail.com'}
                                 iconifySrc={'material-symbols:mail'}
                             />
                             <SingleMoreCard
                                 title={'Linked In'}
                                 linkTitle={'Profile Link'}
                                 iconifySrc={'mdi:linkedin'}
-                                link={'https://www.linkedin.com/in/yashasviyadav1'}
+                                link={'https://www.linkedin.com/in/dhruv'}
                             />
                             
                         </div>  
